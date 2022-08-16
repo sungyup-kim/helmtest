@@ -3,4 +3,4 @@
 # Declare variables to be passed into your templates.
 
 imageAddress: "15.164.12.54:5000/docker-local/matilda-backend"
-replicaCount: 2
+replicaCount: 3
