@@ -15,7 +15,7 @@ spec:
       hostNetwork: false
       containers:
       - name: matilda-backend
-        image: 15.164.12.54:5000/docker-local/matilda-backend:{{.Values.imageVersion}}
+        image: 3.37.191.158:30002/docker-local/matilda-backend:{{.Values.imageVersion}}
         #image: 15.164.12.54:5000/docker-local/matilda-backend
         ports: []
         resources:
